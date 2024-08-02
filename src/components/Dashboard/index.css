@@ -1,0 +1,19 @@
+.dashboard {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .dashboard h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .dashboard .profile {
+    text-align: center;
+  }
+  
+  .dashboard p {
+    margin-bottom: 0.5rem;
+  }
+  
